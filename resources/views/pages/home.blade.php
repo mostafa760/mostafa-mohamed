@@ -60,10 +60,6 @@
     <!-- choose  -->
     <section id="choose">
         <div class="container" class="chooice-us position-relative">
-            <ul>
-                <li><i  class="fas fa-arrow-right position-absolute top-50 end-0 translate-middle-y"></i></li>
-                <li><i   class="fas fa-arrow-left position-absolute top-50 start-0 translate-middle-y"></i></li>
-            </ul>
             <div class="section-header ">
                 <h3>WHY CHOOSE US</h3>
             </div>
